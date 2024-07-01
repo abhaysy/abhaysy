@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C,C++ and Webd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abhaysy80@gmail.com <br>
+<hr>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!---
 abhaysy/abhaysy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
